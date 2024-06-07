@@ -1,0 +1,6 @@
+org\example\netty\ChatClientHandler.class
+org\example\netty\ChatServerHandler.class
+org\example\netty\ChatClient.class
+org\example\netty\ChatServerIntializer.class
+org\example\netty\ChatClientInitializer.class
+org\example\netty\ChatServer.class
